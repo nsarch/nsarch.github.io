@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Film</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="build/mediaelement-and-player.min.js"></script>
+<link rel="stylesheet" href="build/mediaelementplayer.min.css">
+<script>
+$(document).ready(function(){
+$('video, audio').mediaelementplayer();
+});
+</script>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="style.css" media="screen">
+</head>
+<body>
+
+<div id="container">
+  <div id="header">
+    <h1></h1>
+  </div>
+  <div id="sideheader"></div>
+  <br>
+  <div id="content">
+  <br>
+    <video width="640" height="480"><source type="video/mp4" src="https://ia601507.us.archive.org/13/items/WaffenSSInColour/Waffen%20SS%20in%20Colour.mp4"></source></video>
+	<br>
+	<h2>Waffen SS en color</h2>
+  </div>
+  <div id="footer"></div>
+</div>
+</body></html>
