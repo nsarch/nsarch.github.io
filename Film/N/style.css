@@ -44,11 +44,11 @@ body {
   margin-left: 90px;
   padding-right: 130px;
   margin-right: 15px;
-  text-align: justify;
   font-style: normal;
   font-weight: normal;
   text-decoration: none;
   font-family: Courier;
+  text-align: justify;
 }
 #footer {
   padding: 20px;
