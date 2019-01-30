@@ -1,0 +1,26 @@
+body,html{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: Courier New,Courier,monospace;
+	text-align: center;
+	background: -webkit-radial-gradient(
+                #404040,
+                #2c2c2c,
+                #191919
+		        );
+}
+h2{
+	color: #eee;
+	font-weight: normal;
+}
+div{
+	margin: auto;
+}
+img {
+	width: 200px;
+	margin: auto;
+}
