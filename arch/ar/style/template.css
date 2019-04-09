@@ -1,0 +1,12 @@
+html {position: relative; margin: 0; padding: 0; background-color: #E0E0E0;}
+body {margin: 0; padding: 0; text-align: left;}
+#imPage {margin: 0px auto 0px auto; width: 960px; position: relative;}
+#imHeaderBg {position: absolute; left: 0; top: 0; height: 165px; width: 100%; background-color: #000000;}
+#imHeader {margin-bottom: 36px; height: 150px; background-color: #FFFFFF; background-image: url('top.png'); background-position: top left; background-repeat: no-repeat;}
+#imMnMn {position: absolute; top: 150px; left: 0;  height: 36px; width: 960px; padding: 0px 0px 0px 0px; background-color: transparent;}
+#imMnMn > ul { text-align: center; }
+#imMnMn li {display: inline}
+#imContent {min-height: 380px; position: relative; width: 960px; padding: 0px 0px 0px 0px; }
+#imContentGraphics {min-height: 380px; position: absolute; top: 186px; bottom: 75px; left: 0; width: 960px; background-color: #E0E0E0;}
+#imFooterBg {position: absolute; left: 0; bottom: 0; height: 75px; width: 100%; background-color: #000000;}
+#imFooter {position: relative; margin: 0 auto; height: 75px; width: 960px; background-color: #000000; background-image: url('bottom.png'); background-position: top left; background-repeat: no-repeat;}
