@@ -18,7 +18,7 @@
 			showCurrent: false,
 			verticalScroll: false,
 			orientation: 'horizontal',
-			menuHeight: 22,
+			menuHeight: 27,
 			menuWidth: 120,
 			submenuHeight: 22,
 			submenuWidth: 160,
@@ -28,7 +28,7 @@
 			effect: 'fade'
 		});
 	});
-	b.push(function () { x.utils.imPreloadImages([p + 'menu/main.png',p + 'menu/main_h.png', p + 'res/imLoad.gif', p + 'res/imClose.png']); });
+	b.push(function () { x.utils.imPreloadImages([p + 'menu/main_f.png',p + 'menu/main_m.png',p + 'menu/main_l.png',p + 'menu/main_f_h.png',p + 'menu/main_m_h.png',p + 'menu/main_l_h.png',p + 'menu/main_f_c.png',p + 'menu/main_m_c.png',p + 'menu/main_l_c.png', p + 'res/imLoad.gif', p + 'res/imClose.png']); });
 
 	// ShowBox
 	$.extend(s.imShowBox, {
@@ -91,15 +91,15 @@
 
 	// Captcha
 	var codes = s.imCaptcha.offlineCodes;
-	codes[0] = { letter: 'J', path: 'captcha/imcpa_2k4.gif'};
-	codes[1] = { letter: '3', path: 'captcha/imcpa_e2p.gif'};
-	codes[2] = { letter: 'H', path: 'captcha/imcpa_l88.gif'};
-	codes[3] = { letter: 'J', path: 'captcha/imcpa_4pr.gif'};
-	codes[4] = { letter: 'U', path: 'captcha/imcpa_xt3.gif'};
-	codes[5] = { letter: 'N', path: 'captcha/imcpa_dl8.gif'};
-	codes[6] = { letter: 'Y', path: 'captcha/imcpa_g58.gif'};
-	codes[7] = { letter: 'C', path: 'captcha/imcpa_l4c.gif'};
-	codes[8] = { letter: 'U', path: 'captcha/imcpa_sk3.gif'};
-	codes[9] = { letter: '2', path: 'captcha/imcpa_y6a.gif'};
+	codes[0] = { letter: 'W', path: 'captcha/imcpa_2k4.gif'};
+	codes[1] = { letter: '5', path: 'captcha/imcpa_e2p.gif'};
+	codes[2] = { letter: 'F', path: 'captcha/imcpa_l88.gif'};
+	codes[3] = { letter: 'H', path: 'captcha/imcpa_4pr.gif'};
+	codes[4] = { letter: 'J', path: 'captcha/imcpa_xt3.gif'};
+	codes[5] = { letter: 'R', path: 'captcha/imcpa_dl8.gif'};
+	codes[6] = { letter: '3', path: 'captcha/imcpa_g58.gif'};
+	codes[7] = { letter: 'Z', path: 'captcha/imcpa_l4c.gif'};
+	codes[8] = { letter: 'E', path: 'captcha/imcpa_sk3.gif'};
+	codes[9] = { letter: 'U', path: 'captcha/imcpa_y6a.gif'};
 	s.loaded = true;
 })( _jq, x5engine );
