@@ -91,15 +91,15 @@
 
 	// Captcha
 	var codes = s.imCaptcha.offlineCodes;
-	codes[0] = { letter: 'W', path: 'captcha/imcpa_2k4.gif'};
-	codes[1] = { letter: '5', path: 'captcha/imcpa_e2p.gif'};
-	codes[2] = { letter: 'F', path: 'captcha/imcpa_l88.gif'};
-	codes[3] = { letter: 'H', path: 'captcha/imcpa_4pr.gif'};
-	codes[4] = { letter: 'J', path: 'captcha/imcpa_xt3.gif'};
-	codes[5] = { letter: 'R', path: 'captcha/imcpa_dl8.gif'};
-	codes[6] = { letter: '3', path: 'captcha/imcpa_g58.gif'};
-	codes[7] = { letter: 'Z', path: 'captcha/imcpa_l4c.gif'};
-	codes[8] = { letter: 'E', path: 'captcha/imcpa_sk3.gif'};
-	codes[9] = { letter: 'U', path: 'captcha/imcpa_y6a.gif'};
+	codes[0] = { letter: 'X', path: 'captcha/imcpa_2k4.gif'};
+	codes[1] = { letter: 'L', path: 'captcha/imcpa_e2p.gif'};
+	codes[2] = { letter: 'W', path: 'captcha/imcpa_l88.gif'};
+	codes[3] = { letter: 'M', path: 'captcha/imcpa_4pr.gif'};
+	codes[4] = { letter: '3', path: 'captcha/imcpa_xt3.gif'};
+	codes[5] = { letter: 'S', path: 'captcha/imcpa_dl8.gif'};
+	codes[6] = { letter: 'P', path: 'captcha/imcpa_g58.gif'};
+	codes[7] = { letter: '5', path: 'captcha/imcpa_l4c.gif'};
+	codes[8] = { letter: 'M', path: 'captcha/imcpa_sk3.gif'};
+	codes[9] = { letter: 'W', path: 'captcha/imcpa_y6a.gif'};
 	s.loaded = true;
 })( _jq, x5engine );
