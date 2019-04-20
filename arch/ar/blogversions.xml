@@ -1,3 +1,14 @@
 <?xml version="1.0"?>
 <fileversions>
+	<file id="132001803020819844-6q5vlgwo" version="16" path="blog/style.css" />
+	<file id="132001803020849147-6q5vlgwo" version="16" path="res/blog.inc.php" />
+	<file id="132001803020858918-6q5vlgwo" version="16" path="blog/x5feed.xml" />
+	<file id="132001853644584241-x18n69tf" version="1" path="blog/images/Pastel-ns.jpg" />
+	<file id="132001853644603764-x18n69tf" version="1" path="blog/images/mein_kampf.png" />
+	<file id="132001853644613540-x18n69tf" version="1" path="blog/images/img_1.jpg" />
+	<file id="132001853644633067-x18n69tf" version="1" path="blog/images/sven-hedin.jpg" />
+	<file id="132001853644652575-3j0be655" version="1" path="blog/images/david-lloyd-george.jpg" />
+	<file id="132001853644662358-3j0be655" version="1" path="blog/images/pride3-1024x663.jpg" />
+	<file id="132001853644681885-3j0be655" version="1" path="blog/images/jesse-owens-the-pittsburgh-press-monday-24-ago-1936-p-26.jpg" />
+	<file id="132001853644691641-3j0be655" version="1" path="blog/images/la-humanidad-se-hundirc3ada-en-la-oscuridad-eterna-joseph-goebbels.jpg" />
 </fileversions>

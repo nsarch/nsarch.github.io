@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 	<url>
 		<loc>https://index.html</loc>
-		<lastmod>2019-04-09</lastmod>
+		<lastmod>2019-04-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://fotografias.html</loc>
-		<lastmod>2019-04-13</lastmod>
+		<lastmod>2019-04-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>https://imsitemap.html</loc>
-		<lastmod>2019-04-09</lastmod>
+		<lastmod>2019-04-19</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://blog/index.php</loc>
+		<lastmod>2019-04-19</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>

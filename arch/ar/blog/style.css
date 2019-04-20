@@ -1,0 +1,45 @@
+#imBlogContent h2 a:hover { text-decoration: underline; }
+#imBlogContent { width: 787px; float: left; margin-left: 5px; font: inherit; overflow: hidden; }
+#imBlogSidebar { width: 160px; float: left; font: inherit; padding-left: 5px; }
+.imBlogBlock { margin: 10px 0; overflow: hidden; }
+.imBlogBlock ul { list-style:none; }
+.imBlogBlock .imBlogCloudItem { margin-right: 5px; display: inline; }
+.imBlogPostBody, .imBlogPostSummary { margin: 10px 0 0 0; }
+.imBlogPostRead { margin: 10px 0; }
+.imBlogBlockTitle { font-size: 1.1em; font-weight: bold; margin-bottom: 5px; }
+.imBlogSeparator { margin: 10px 0 10px 0; border-bottom: 1px dotted gray; }
+.imBlogSources { border-top: 1px solid #CCCCCC; padding-top: 5px; margin-top: 5px;}
+.imBlogSources ul { margin: 5px 0 0 5px; }
+#imBlogBlock0 { width: 158px; border-top: 1px solid transparent; border-left: 1px solid transparent; border-bottom: 1px solid transparent; border-right: 1px solid transparent; font: normal normal normal 12.0pt 'Times New Roman'; color: #000000; background-color: #C0C0C0; text-decoration: none; }
+#imBlogBlock0 a, #imBlogBlock0 a:link, #imBlogBlock0 a:hover, #imBlogBlock0 a:visited { font: normal normal normal 12.0pt 'Times New Roman'; color: #000000; background-color: #C0C0C0; text-decoration: none; }
+#imBlogBlock0 a:hover { text-decoration: underline; }
+#imBlogBlock1 { width: 158px; border-top: 1px solid transparent; border-left: 1px solid transparent; border-bottom: 1px solid transparent; border-right: 1px solid transparent; font: normal normal normal 12.0pt 'Times New Roman'; color: #000000; background-color: #C0C0C0; text-decoration: none; }
+#imBlogBlock1 a, #imBlogBlock1 a:link, #imBlogBlock1 a:hover, #imBlogBlock1 a:visited { font: normal normal normal 12.0pt 'Times New Roman'; color: #000000; background-color: #C0C0C0; text-decoration: none; }
+#imBlogBlock1 a:hover { text-decoration: underline; }
+#imBlogBlock2 { width: 158px; border-top: 1px solid transparent; border-left: 1px solid transparent; border-bottom: 1px solid transparent; border-right: 1px solid transparent; font: normal normal normal 12.0pt 'Times New Roman'; color: #000000; background-color: #C0C0C0; text-decoration: none; }
+#imBlogBlock2 a, #imBlogBlock2 a:link, #imBlogBlock2 a:hover, #imBlogBlock2 a:visited { font: normal normal normal 12.0pt 'Times New Roman'; color: #000000; background-color: #C0C0C0; text-decoration: none; }
+#imBlogBlock2 a:hover { text-decoration: underline; }
+#imBlogPost_cn0u3w46 { position: relative; line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
+#imBlogPost_cn0u3w46 ul { list-style: disc; margin: 0px; padding: 0px; }
+#imBlogPost_cn0u3w46 ul li { margin: 0px 0px 0px 15px; padding: 0px; font-size: 9pt; line-height: 19px;}
+#imBlogPost_cn0u3w46 table { margin: 0 auto; padding: 0; border-collapse: collapse; border-spacing:0; line-height: inherit; }
+#imBlogPost_cn0u3w46 table td { padding: 4px 3px 4px 3px; margin: 0px; line-height: 1px; font-size: 1pt; }
+#imBlogPost_cn0u3w46 p { margin: 0; padding: 0; }
+#imBlogPost_cn0u3w46 img { border: none; margin: 0px 0px; vertical-align: text-bottom;}
+#imBlogPost_cn0u3w46 img.fleft { float: left; margin-right: 15px; vertical-align: baseline;}
+#imBlogPost_cn0u3w46 img.fright { float: right; margin-left: 15px; vertical-align: baseline;}
+#imBlogPost_cn0u3w46 .imUl { text-decoration: underline; }
+#imBlogPost_cn0u3w46 .ff0 { font-family: "Tahoma", sans-serif; }
+#imBlogPost_cn0u3w46 .ff1 { font-family: "Times New Roman", serif; }
+#imBlogPost_cn0u3w46 .cf1 { color: #000000; }
+#imBlogPost_cn0u3w46 .cf2 { color: #FFFFFF; }
+#imBlogPost_cn0u3w46 .cf3 { color: #000000; }
+#imBlogPost_cn0u3w46 .cf4 { color: #C00000; }
+#imBlogPost_cn0u3w46 .cf5 { color: #000000; }
+#imBlogPost_cn0u3w46 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
+#imBlogPost_cn0u3w46 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
+#imBlogPost_cn0u3w46 .cb1 { background-color: #000000; }
+#imBlogPost_cn0u3w46 .cb2 { background-color: transparent; }
+#imBlogPost_cn0u3w46 .cb3 { background-color: #000000; }
+#imBlogPost_cn0u3w46 .cb4 { background-color: #C00000; }
+#imBlogPost_cn0u3w46 .cb5 { background-color: #000000; }
