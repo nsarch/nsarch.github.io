@@ -5,21 +5,23 @@ body,html{
 }
 
 body{
-	font-family: Courier New,Courier,monospace;
 	text-align: center;
+	font-family: sans-serif;
 	background: -webkit-radial-gradient(
-                #404040,
-                #2c2c2c,
+                #0a0a0a,
+                #1c0d02,
                 #191919
 		        );
 }
 h2{
-	color: #eee;
-	font-weight: normal;
+	font-size: x-large;
+        color: #fff;
 }
+
 div{
 	margin: auto;
 }
+
 img {
 	width: 200px;
 	margin: auto;
