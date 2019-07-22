@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <fileversions>
-	<file id="131992429298188385-8puch2v7" version="42" path="sitemap.xml" />
+	<file id="131992429298188385-8puch2v7" version="47" path="sitemap.xml" />
 	<file id="131992429298188385-p0udf7d7" version="1" path="style\reset.css" />
 	<file id="131992429298344643-p0udf7d7" version="1" path="style\print.css" />
 	<file id="131992429298500897-9fw674yd" version="11" path="style/style.css" />
@@ -13,9 +13,9 @@
 	<file id="131992429299594676-gs0v231v" version="1" path="res\x5engine.offline.js" />
 	<file id="131992429299750935-r913v0z2" version="1" path="res\x5engine.deferrable.js" />
 	<file id="131992429299907208-330ks5h1" version="1" path="res\x5cartengine.js" />
-	<file id="131992429299907208-07ckqbqe" version="33" path="res/x5settings.php" />
+	<file id="131992429299907208-07ckqbqe" version="38" path="res/x5settings.php" />
 	<file id="131992429300063415-07ckqbqe" version="1" path="res\imemail.inc.php" />
-	<file id="131992429300063415-4y1yeu45" version="42" path="res/search.inc.php" />
+	<file id="131992429300063415-4y1yeu45" version="47" path="res/search.inc.php" />
 	<file id="131992429300219677-4y1yeu45" version="1" path="res\x5engine.php" />
 	<file id="131992429300219677-e3ezbg75" version="1" path="res\imlogout.php" />
 	<file id="131992429300375955-e3ezbg75" version="1" path="captcha\imcaptcha.php" />
@@ -101,31 +101,24 @@
 	<file id="131993281293257740-gp11l626" version="1" path="style\top.png" />
 	<file id="131993281293413994-9ac2i16p" version="1" path="style\bottom.png" />
 	<file id="131993281293570245-j22tw849" version="1" path="style\template.css" />
-	<file id="132001803020819844-6q5vlgwo" version="16" path="blog/style.css" />
-	<file id="132001803020849147-6q5vlgwo" version="16" path="res/blog.inc.php" />
-	<file id="132001803020858918-6q5vlgwo" version="16" path="blog/x5feed.xml" />
-	<file id="132001803020868658-6q5vlgwo" version="16" path="blog/x5blog.js" />
-	<file id="132001853644584241-x18n69tf" version="1" path="blog/images/Pastel-ns.jpg" />
-	<file id="132001853644603764-x18n69tf" version="1" path="blog/images/mein_kampf.png" />
-	<file id="132001853644613540-x18n69tf" version="1" path="blog/images/img_1.jpg" />
-	<file id="132001853644633067-x18n69tf" version="1" path="blog/images/sven-hedin.jpg" />
-	<file id="132001853644652575-3j0be655" version="1" path="blog/images/david-lloyd-george.jpg" />
-	<file id="132001853644662358-3j0be655" version="1" path="blog/images/pride3-1024x663.jpg" />
-	<file id="132001853644681885-3j0be655" version="1" path="blog/images/jesse-owens-the-pittsburgh-press-monday-24-ago-1936-p-26.jpg" />
-	<file id="132001853644691641-3j0be655" version="1" path="blog/images/la-humanidad-se-hundirc3ada-en-la-oscuridad-eterna-joseph-goebbels.jpg" />
-	<file id="132019236417285469-9ei5ej35" version="1" path="captcha\imcpa_2k4.gif" />
-	<file id="132019236417441724-3340sbdw" version="1" path="captcha\imcpa_e2p.gif" />
-	<file id="132019236417597974-07k1pom8" version="1" path="captcha\imcpa_l88.gif" />
-	<file id="132019236417597974-u2jdnbu8" version="1" path="captcha\imcpa_4pr.gif" />
-	<file id="132019236417754228-u2jdnbu8" version="1" path="captcha\imcpa_xt3.gif" />
-	<file id="132019236417910502-ekm6btpg" version="1" path="captcha\imcpa_dl8.gif" />
-	<file id="132019236418066745-88m692y2" version="1" path="captcha\imcpa_g58.gif" />
-	<file id="132019236418066745-gap2497p" version="1" path="captcha\imcpa_l4c.gif" />
-	<file id="132019236418222999-gap2497p" version="1" path="captcha\imcpa_sk3.gif" />
-	<file id="132019236418379253-9lo2340p" version="1" path="captcha\imcpa_y6a.gif" />
-	<file id="132019236418535516-rwo22y3p" version="1" path="captcha\imkeys.php" />
+	<file id="132001803020819844-6q5vlgwo" version="21" path="blog/style.css" />
+	<file id="132001803020849147-6q5vlgwo" version="21" path="res/blog.inc.php" />
+	<file id="132001803020858918-6q5vlgwo" version="21" path="blog/x5feed.xml" />
+	<file id="132001803020868658-6q5vlgwo" version="21" path="blog/x5blog.js" />
+	<file id="132082786783005998-9dh5w3gf" version="1" path="captcha\imcpa_2k4.gif" />
+	<file id="132082786787791336-5ge8uo21" version="1" path="captcha\imcpa_e2p.gif" />
+	<file id="132082786788260076-0b3z7lf8" version="1" path="captcha\imcpa_l88.gif" />
+	<file id="132082786788279635-0b3z7lf8" version="1" path="captcha\imcpa_4pr.gif" />
+	<file id="132082786788426126-t4iz69nv" version="1" path="captcha\imcpa_xt3.gif" />
+	<file id="132082786788435889-t4iz69nv" version="1" path="captcha\imcpa_dl8.gif" />
+	<file id="132082786788601911-wclo0161" version="1" path="captcha\imcpa_g58.gif" />
+	<file id="132082786788621454-wclo0161" version="1" path="captcha\imcpa_l4c.gif" />
+	<file id="132082786788640970-wclo0161" version="1" path="captcha\imcpa_sk3.gif" />
+	<file id="132082786788650745-wclo0161" version="1" path="captcha\imcpa_y6a.gif" />
+	<file id="132082786788885117-5mk59691" version="1" path="captcha\imkeys.php" />
+	<file id="132082814207441543-a994555k" version="1" path="blog/images/Adolf-Hitler-en-Weimar,-octubre-de-1930.jpg" />
 	<page id="0" lastmodified="2019-05-09 20:00:54" path="index.html" upath="index.html" construction="False" />
 	<page id="-9" lastmodified="2019-05-09 20:00:53" path="imsearch.html" upath="imsearch.php" construction="False" />
 	<page id="-8" lastmodified="2019-05-09 20:00:53" path="imsitemap.html" upath="imsitemap.html" construction="False" />
-	<page id="-5" lastmodified="2019-05-09 20:00:53" path="blog/index.html" upath="blog/index.php" construction="False" />
+	<page id="-5" lastmodified="2019-07-22 10:16:14" path="blog/index.html" upath="blog/index.php" construction="False" />
 </fileversions>
