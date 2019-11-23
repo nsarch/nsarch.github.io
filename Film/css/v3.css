@@ -8,14 +8,15 @@ body{
 	text-align: center;
 	font-family: sans-serif;
 	background: -webkit-radial-gradient(
-                #0a0a0a,
-                #1c0d02,
-                #191919
+                #212F3D ,
+                #1C2833 ,
+                #17202A 
 		        );
 }
 h2{
 	font-size: x-large;
-        color: #fff;
+        color: #F2F4F4;
+        font-family: monospace;
 }
 
 div{
